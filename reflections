@@ -1,0 +1,14 @@
+Personal Reflection
+At first, I found debugging very challenging. My initial process was to write a long query all at once. When it failed, I felt lost and didn't know where the error was. This was frustrating and made me feel like I was just guessing.
+
+The biggest "AHA!" moment for me was when I started using the 'checkpoint' method. Instead of writing the whole query in one go, I learned to build it step-by-step. I would add one clause, like a JOIN, run it, and check if the result was what I expected before adding the next part, like the GROUP BY. This simple change was a huge breakthrough. It turned debugging from a frustrating guess into a logical process of finding the problem.
+
+This new process changed more than just how I debug; it changed how I think. I feel that I've started to develop an analyst's mindset:
+
+Thinking like an analyst, not just a coder: I started asking "why" I needed certain data, like when I realized the customers table wasn't necessary for one of the challenges. This helped me write more efficient queries.
+
+Clarifying business needs: I learned that a request like "show every customer" can be ambiguous (INNER JOIN vs. LEFT JOIN). I now understand the importance of asking clarifying questions before writing code to deliver the right insights.
+
+Understanding the data's story: A key lesson was that an empty result is not an error. It's a valid answer from the data, and my job is to understand what it means.
+
+I am ending this week with much more confidence than when I started. I am truly excited to apply these foundational skills to a real, complex dataset next week. I know there will be harder challenges ahead, but I now have a solid process to face them.
