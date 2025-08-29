@@ -1,4 +1,2 @@
-# github-playground
-
-## GitHub Playground
-My Externalization Learning Progress on Data Analysis from SARAH-CODE learning system
+## SARAH-CODE Learning Journey
+My 12-month journey to becoming a Data Analyst. This repository contains my weekly logs, notes, and code snippets from the SARAH-CODE curriculum.
