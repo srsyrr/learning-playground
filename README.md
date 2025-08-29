@@ -6,4 +6,4 @@ The core concept of this repository is to track my progress and show my learning
 
 **To see my finished and polished portfolio projects, please visit pinned repositories in my GitHub main profile.**
 
-Connect with me in [LinkedIn](https://www.linkedin.com/in/qonita-syahirah-949452342).
+Connect with me in [LinkedIn](https://www.linkedin.com/in/qonita-syahirah).
