@@ -45,42 +45,42 @@ SARAH-CODE Roadmap & Progress
 📌 Week 12: Mini Project #1: Cohort Analysis --Oct 20, 2025 
 
 **Phase 2: Analyst Toolkit & Visualization**  
-📌 Week 13: Excel/Sheets for Analysts (Pivot Tables, XLOOKUP) (Oct 27, 2025)
-📌 Week 14: Introduction to Power BI & Connecting Data Sources (Nov 3, 2025)
-📌 Week 15: Building Dashboards & Visual Design (Nov 10, 2025)
-📌 Week 16: Domain Case Study: Marketing Analytics (Dashboard) (Nov 17, 2025)
-📌 Week 17: Python & Pandas Foundations (Nov 24, 2025)
-📌 Week 18: Data Cleaning with Pandas (Dec 1, 2025)
-📌 Week 19: [AI Integration] Filtering & Aggregation with Pandas (Dec 8, 2025)
-📌 Week 20: Combining DataFrames (Python) (Dec 15, 2025)
-📌 Week 21: Exploratory Data Analysis (EDA) & Descriptive Statistics (Dec 22, 2025)
-📌 Week 22: [AI Integration] Data Visualization with Matplotlib & Seaborn (Dec 29, 2025)
-📌 Week 23: Statistics Foundations for Analysts (Jan 5, 2026)
-📌 Week 24: Mini Project #2: EDA & Insight Presentation (Python) (Jan 12, 2026) 
-
+📌 Week 13: Excel/Sheets for Analysts (Pivot Tables, XLOOKUP) --Oct 27, 2025  
+📌 Week 14: Introduction to Power BI & Connecting Data Sources --Nov 3, 2025  
+📌 Week 15: Building Dashboards & Visual Design --Nov 10, 2025  
+📌 Week 16: Domain Case Study: Marketing Analytics (Dashboard) --Nov 17, 2025  
+📌 Week 17: Python & Pandas Foundations --Nov 24, 2025  
+📌 Week 18: Data Cleaning with Pandas --Dec 1, 2025  
+📌 Week 19: [AI Integration] Filtering & Aggregation with Pandas --Dec 8, 2025  
+📌 Week 20: Combining DataFrames (Python) --Dec 15, 2025  
+📌 Week 21: Exploratory Data Analysis (EDA) & Descriptive Statistics --Dec 22, 2025  
+📌 Week 22: [AI Integration] Data Visualization with Matplotlib & Seaborn --Dec 29, 2025  
+📌 Week 23: Statistics Foundations for Analysts --Jan 5, 2026  
+📌 Week 24: Mini Project #2: EDA & Insight Presentation (Python) --Jan 12, 2026  
+  
 **Phase 3: Advanced Applications & Portfolio**  
-📌 Week 25: Hypothesis Testing & A/B Testing (Jan 19, 2026)
-📌 Week 26: Domain Case Study: E-commerce A/B Test (Jan 26, 2026)
-📌 Week 27: Data Storytelling (Feb 2, 2026)
-📌 Week 28: [AI Integration] AI as a Discussion Partner (Feb 9, 2026)
-📌 Week 29–32: End-to-End Portfolio Project #1 (Feb 16 - Mar 15, 2026)
-📌 Week 33: Introduction to the Modern Data Ecosystem (ETL, dbt) (Mar 16, 2026)
-📌 Week 34: Basic Forecasting (Mar 23, 2026)
-📌 Week 35: [AI Integration] Prompt Engineering for Analysts (Mar 30, 2026)
-📌 Week 36: Mini Project #3: Integrative Project (SQL + Python + BI) (Apr 6, 2026)  
-
+📌 Week 25: Hypothesis Testing & A/B Testing --Jan 19, 2026  
+📌 Week 26: Domain Case Study: E-commerce A/B Test --Jan 26, 2026  
+📌 Week 27: Data Storytelling --Feb 2, 2026  
+📌 Week 28: [AI Integration] AI as a Discussion Partner --Feb 9, 2026  
+📌 Week 29–32: End-to-End Portfolio Project #1 --Feb 16 - Mar 15, 2026  
+📌 Week 33: Introduction to the Modern Data Ecosystem (ETL, dbt) --Mar 16, 2026  
+📌 Week 34: Basic Forecasting --Mar 23, 2026  
+📌 Week 35: [AI Integration] Prompt Engineering for Analysts --Mar 30, 2026  
+📌 Week 36: Mini Project #3: Integrative Project (SQL + Python + BI) --Apr 6, 2026  
+  
 **Phase 4: Career Launch**  
-📌 Week 37–40: End-to-End Portfolio Project #2 (Specialization)  
-📌 Week 41: [AI Integration] Resume & LinkedIn Profile Optimization  
-📌 Week 42: Building an Online Portfolio (GitHub/Notion)  
-📌 Week 43: Personal Branding & Networking  
-📌 Week 44: Behavioral Interview Practice (STAR Method)  
-📌 Week 45: Technical Interview Practice: SQL Live Coding  
-📌 Week 46: [AI Integration] Interview Practice: Python & Case Studies  
-📌 Week 47: Project Presentation Simulation (Stakeholder Pitch)  
-📌 Week 48: Job Application Strategy & Salary Negotiation  
-📌 Week 49–52: Flexible Weeks & Final Review  
-
+📌 Week 37–40: End-to-End Portfolio Project #2 (Specialization) --Apr 13 - May 10, 2026  
+📌 Week 41: [AI Integration] Resume & LinkedIn Profile Optimization --May 11, 2026  
+📌 Week 42: Building an Online Portfolio (GitHub/Notion) --May 18, 2026  
+📌 Week 43: Personal Branding & Networking --May 25, 2026  
+📌 Week 44: Behavioral Interview Practice (STAR Method) --Jun 1, 2026  
+📌 Week 45: Technical Interview Practice: SQL Live Coding --Jun 8, 2026  
+📌 Week 46: [AI Integration] Interview Practice: Python & Case Studies --Jun 15, 2026  
+📌 Week 47: Project Presentation Simulation (Stakeholder Pitch) --Jun 22, 2026  
+📌 Week 48: Job Application Strategy & Salary Negotiation --Jun 29, 2026  
+📌 Week 49–52: Flexible Weeks & Final Review --Jul 6 - Aug 2, 2026  
+  
 ---
 
 ## 🌐 Connect with Me
