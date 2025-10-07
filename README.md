@@ -37,10 +37,10 @@ SARAH-CODE Roadmap & Progress
 ✅ Week 4: Advanced Filtering & Conditional Logic  
 ✅ Week 5: Aggregation & `GROUP BY`  
 ✅ Week 6: Joining Tables with `JOIN`  
-✅ Week 7: Subqueries & `UNION`  
-🔁 Week 8: Data Cleaning with SQL --09/15/2025 - 09/20/2025 (In Progress)  
-📌 Week 9: Common Table Expressions (CTEs)  
-📌 Week 10: Window Functions  
+✅ Week 7: Subqueries & `UNION`    
+✅ Week 8: Common Table Expressions (CTEs)   
+✅ Week 9: Window Functions  
+🔁 Week 10: Data Cleaning with SQL -- (In Progress)
 📌 Week 11: Domain Case Study: Product Analytics  
 📌 Week 12: Mini Project #1: Cohort Analysis  
 
